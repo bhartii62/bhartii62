@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bharti_arya
 - 👀 I’m interested in research work
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Geospatial Analysis
 - 💞️ I’m looking to collaborate on GEOINFORMATICS.
 
 
