@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bharti_arya
 - 👀 I’m interested in research work
-- 🌱 I’m currently learning Geospatial Analysis
-- 💞️ I’m looking to collaborate on GEOINFORMATICS.
+- 🌱 I’m currently learning Pythom
+- 💞️ I’m looking to collaborate on Geospatial Analysis
 
 
 <!---
