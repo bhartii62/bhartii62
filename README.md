@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @bharti_arya
-- 👀 I’m interested in research work
-- 🌱 I’m currently learning Python-Pandas
-- 💞️ I’m looking to collaborate on Geospatial Analysis/DATA ANALYSIS.
 
 
 <!---
